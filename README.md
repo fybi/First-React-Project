@@ -1,2 +1,2 @@
 # First-React-Project
-This is my first time using GitHub. Lol. I'm hoping in a few years, I'd be amused at how this code game such trouble.
+This is my first time using React. Lol. I'm hoping in a few years, I'd be amused at how this code gave me such trouble.
