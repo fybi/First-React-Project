@@ -1,0 +1,4 @@
+So guys, I just got started n React. The tutorial which I'm following uses class-based components. 
+I'm following the tutorial accurately, but for some reason, the codes in my <b>App.js</b> are not being rendered to the DOM. 
+I've tried all tips given to me, but I'm facing the problem. I'll appreciate any help I can get from you guys. The related files are attached to this repository.
+Thanks!
